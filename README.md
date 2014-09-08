@@ -1,0 +1,1 @@
+A quick helper app for running Lean Coffee sessions.
